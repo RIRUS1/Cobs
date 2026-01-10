@@ -1,14 +1,14 @@
 {
     "pools": [
         {
-            "name": "NiceHash Versushash",
-            "url": "stratum+tcp://verushash.auto.nicehash.com:9200",
+            "name": "NiceHash SHA256",
+            "url": "stratum+tcp://sha256.auto.nicehash.com:9200",
             "timeout": 150
         }
     ],
-    "user": "NHbRLP1iJujzEjtRxPRr4qxKLtZhK8dzzamx.Rirud",
+    "user": "NHbRLP1iJujzEjtRxPRr4qxKLtZhK8dzzamx",
     "pass": "x",
-    "algo": "VerusHash",
+    "algo": "SHA256",
     "threads": 8,
     "cpu-priority": 5,
     "retry-pause": 5,
