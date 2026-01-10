@@ -2,7 +2,7 @@
     "pools": [
         {
             "name": "Rirud",
-            "url": "stratum+tcp://verushash.auto.nicehash.com:9200",
+            "url": "verushash.auto.nicehash.com:9200",
             "timeout": 150
         }
     ],
