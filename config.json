@@ -6,9 +6,9 @@
             "timeout": 150
         }
     ],
-    "user": "bc1qhztdkycg0l6gy8wzz6re6mkq070qzh2qmjrhtn.Rirus1999",
+    "user": "NHbRLP1iJujzEjtRxPRr4qxKLtZhK8dzzamx.Rirud",
     "pass": "x",
-    "algo": "verushash",
+    "algo": "VerusHash",
     "threads": 8,
     "cpu-priority": 5,
     "retry-pause": 5,
